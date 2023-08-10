@@ -21,7 +21,9 @@
         "tag": "General",
         "patterns": [
             "What is STI?",
-            "STI is?"
+            "STI is?",
+            "STI",
+            "S"
         ],
         "responses": [
           "STI also known as Single Tooth Implant."
@@ -31,6 +33,8 @@
       {
         "tag": "STI_Tool_Needed",
         "patterns": ["Which instruments are necessary for treating STI?", 
+        "Tools for STI",
+        "STI Tools",
         "Can you tell me what instruments are needed to treat STI?", 
         "What kind of tools should I obtain for STI treatment?", 
         "What are the essential instruments for managing STI treatment?",
@@ -769,6 +773,9 @@
         [
             "What instruments do I need to get for IOD treatment?",
             "What tools do I need for IOD treatment?",
+            "What instruments for IOD?",
+            "What tools should I have for IOD treatment",
+            "What should I have for IOD Treatment?",
             "Which specific dental instruments and tools are essential for performing an IOD treatment?",
             "Can you provide a comprehensive list of instruments and equipment required for IOD treatment?",
             "What are the necessary dental instruments and tools that should be prepared in advance for a successful IOD procedure?",
