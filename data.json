@@ -13,8 +13,8 @@
           "Yo"
         ],
         "responses": [
-          "Hi, welcome to Predoctoral Implant Program. How may I assist you today?",
-          "Hello there! Welcome to Predoctoral Implant Program. How may I assist you today?"
+          "Hi, welcome to Predoctoral Implant Clinic. How may I assist you today?",
+          "Hello there! Welcome to Predoctoral Implant Clinic. How may I assist you today?"
         ]
       },
       {
@@ -530,11 +530,11 @@
         "patterns":
         [
             "I am planning to do STI digital impression. What are the steps that I need to do?",
-    "What procedures should I follow if I intend to perform a digital impression for STI?",
-    "Can you guide me on the steps required for performing a digital impression for STI?",
-    "What are the necessary steps to execute a digital impression for STI if I am planning to do so?",
-    "In planning for an STI digital impression, what procedures do I need to adhere to?",
-    "If I aim to conduct a digital impression for STI, what are the steps I need to undertake?" 
+            "What procedures should I follow if I intend to perform a digital impression for STI?",
+            "Can you guide me on the steps required for performing a digital impression for STI?",
+            "What are the necessary steps to execute a digital impression for STI if I am planning to do so?",
+            "In planning for an STI digital impression, what procedures do I need to adhere to?",
+            "If I aim to conduct a digital impression for STI, what are the steps I need to undertake?" 
         ],
 
         "responses":[
